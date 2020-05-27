@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ARCoreDevice
+  - popcornMachine
+  - Fire
+  - GameOver
+  - Plane
+  - Fan
+  - Ink
+  - Donut
+  - Popcorn
+  - BananaPeel
+  - RegularPopcorn
+  - ChocolatePopcorn
+  - MatchaPopcorn
+  - HoneyPopcorn
+  - StrawberryPopcorn
+  - SinglePlayerButton
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI2
+    uniqueID: 423596323
+    locked: 0
+  - name: UI
+    uniqueID: 4132668775
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

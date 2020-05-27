@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270427355236",
+    "firebase_url": "https://popcorngameucl.firebaseio.com",
+    "project_id": "popcorngameucl",
+    "storage_bucket": "popcorngameucl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270427355236:android:b0513fa4c5897f84b9c771",
+        "android_client_info": {
+          "package_name": "com.PopcornGame.Prototype1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270427355236-t2ebjp3k6cfi39j2vrkd8eem84dfh8tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.PopcornGame.Prototype1",
+            "certificate_hash": "dcb241574e549c8ed84eb1de90c87b05ddc1e9f8"
+          }
+        },
+        {
+          "client_id": "270427355236-4fofs0sj0qu0ni6hil0ldha0dpcip4cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC687Tjbt5ig04Courm26KHX3DvBi7igTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270427355236-4fofs0sj0qu0ni6hil0ldha0dpcip4cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
